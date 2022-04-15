@@ -5,7 +5,7 @@
   "AssemblyVersion": "1.4.0.2",
   "Description": "Triple triad solver, NPC matches only.\n- highlights next move during mini game\n- evaluates all deck presets before match\n- deck optimizer for NPC\n- adds more details to card collection window",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/Rukongai/FFTriadBuddyDalamud/",
+  "RepoUrl": "https://raw.githubusercontent.com/Rukongai/FFTriadBuddyDalamud/main/TriadBuddy.json",
   "DownloadLinkInstall": "https://github.com/Rukongai/FFTriadBuddyDalamud/blob/main/experimental/plugin.zip", 
   "DownloadLinkTesting": "https://github.com/Rukongai/FFTriadBuddyDalamud/blob/main/experimental/plugin.zip", 
   "DownloadLinkUpdate": "https://github.com/Rukongai/FFTriadBuddyDalamud/blob/main/experimental/plugin.zip", 
