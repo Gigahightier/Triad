@@ -1,15 +1,15 @@
 {
-  "Author": "MgAl2O4",
+  "Author": "MgAl2O4+",
   "Name": "TriadBuddy",
   "Punchline": "Triple triad solver",
   "Description": "Triple triad solver, NPC matches only.\n- highlights next move during mini game\n- evaluates all deck presets before match\n- deck optimizer for NPC\n- adds more details to card collection window",
   "InternalName": "TriadBuddy",
   "AssemblyVersion": "1.4.0.2",
-  "IconUrl": "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/icon.png",
+  "IconUrl": "https://raw.githubusercontent.com/Rukonga/FFTriadBuddyDalamud/main/assets/icon.png",
   "ImageUrls": [
-    "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/image1.png",
-    "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/image2.png",
-    "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/image3.png"
+    "https://raw.githubusercontent.com/Rukongai/FFTriadBuddyDalamud/main/assets/image1.png",
+    "https://raw.githubusercontent.com/Rukongai/FFTriadBuddyDalamud/main/assets/image2.png",
+    "https://raw.githubusercontent.com/Rukongai/FFTriadBuddyDalamud/main/assets/image3.png"
   ],
   "RepoUrl": "https://github.com/Rukongai/FFTriadBuddyDalamud",
   "ApplicableVersion": "any",
