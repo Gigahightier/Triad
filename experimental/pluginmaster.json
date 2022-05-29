@@ -1,0 +1,19 @@
+[
+    {
+        "ApplicableVersion": "any", 
+        "AssemblyVersion": "1.0.2.15", 
+        "Author": "MgAl2O4", 
+        "DalamudApiLevel": 6, 
+        "Description": "Triple triad solver, NPC matches only.\n- highlights next move during mini game\n- evaluates all deck presets before match\n- deck optimizer for NPC\n- adds more details to card collection window", 
+        "DownloadCount": 0, 
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/Rukongai/FFTriadBuddyDalamud/main/experimental/plugin.zip", 
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/Rukongai/FFTriadBuddyDalamud/main/experimental/plugin.zip", 
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Rukongai/FFTriadBuddyDalamud/main/experimental/plugin.zip", 
+        "InternalName": "TriadBuddy+", 
+        "IsHide": false, 
+        "IsTestingExclusive": false, 
+        "LastUpdated": "1633139605", 
+        "Name": "TriadBuddy", 
+        "RepoUrl": "https://raw.githubusercontent.com/Rukongai/FFTriadBuddyDalamud/main/TriadBuddy.json"
+    }
+] 
